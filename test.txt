@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 hoooooooooo
 hhaaaaaaaa
+=======
+hiiiiiiiiiiii
+hhaaaaaaaa
+
+branche !
+>>>>>>> testbranche
